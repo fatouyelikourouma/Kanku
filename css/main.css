@@ -1,0 +1,184 @@
+/*Global Styles*/
+body{
+    background: linear-gradient(172.43deg, #FFBF5F 0%, #C57BFF 99.02%);
+}
+h1{
+    font-family: 'Poppins', sans-serif;
+    font-size: 2.5rem;
+    font-weight: 700;
+}
+h2{
+    font-family: 'Poppins', sans-serif;
+    font-size: 2rem;
+    font-weight: 700;
+}
+p{
+    font-family: 'Poppins', sans-serif; 
+    font-weight: 300;
+}
+.btn{
+    background: rgb(183, 92, 255, 0.56);
+    color: white;
+    font-family: 'Poppins', sans-serif;
+}
+
+a{
+    font-family: 'Poppins', sans-serif;
+    color: black; 
+    font-weight: 200;
+}
+
+ul{ 
+    font-family: 'Poppins', sans-serif;
+    color: black; 
+}
+
+/*NavBar*/
+.logo{ 
+    width: 9em;
+    height: 3em;
+}
+.navbar{
+margin-top: 3em;
+}
+.nav-link{
+    font-family: 'Poppins', sans-serif; 
+    font-weight: 200;
+    margin-right: 3em;
+}
+
+
+
+/*Hero Section*/
+.hero-txt{
+    margin-top: 2em;
+}
+
+.hero-desc{
+    font-weight: 300;
+}
+
+.heroimg{
+    mix-blend-mode: difference;
+    width: 300px; 
+}
+
+/*Explore on Home Page*/
+.explore-hd{
+    margin-top: 5em;
+    margin-bottom: 2em;
+    text-align: center;
+  
+}
+.card-box {
+    background: rgb(255, 255, 255, 0.1);
+    box-shadow: 0px 5px 4px rgb(0, 0, 0, 0.25);
+    padding: 20px;
+    margin-bottom: 30px;
+    float: left;
+    border-radius: 10px;
+    height: 25em;
+    width: 20em;
+}
+.card-box .card-thumbnail {
+    max-height: 275px;
+    overflow: hidden;
+    border-radius: 10px;
+    transition: 1s;
+    
+}
+.prd-desc{
+    color: white;
+    max-width: 16em;
+    margin-top: 1em;
+}
+
+.prdname{ 
+    font-family: 'Poppins', sans-serif; 
+    font-weight: 500;
+}
+
+.buy-btn{
+    width: 100%;
+}
+
+/*call to action*/
+.cta {
+    margin-top: 3em;
+    margin-bottom: 2em;
+    background: rgb(255, 255, 255, 0.3);
+    padding: 5em;
+    width: 100%;
+}
+
+/*about page cards*/
+.about-crd{
+    margin-top: 5em;
+}
+
+.white-paper{
+    margin-top: 5em;
+}
+
+/*Sell Page */
+.creator-box{
+    background: rgb(255, 255, 255, 0.1);
+    box-shadow: 0px 5px 4px rgb(0, 0, 0, 0.25);
+    padding: 30px;
+    margin-bottom: 30px;
+    float: left;
+    border-radius: 10px;
+    height: 20em;
+    width: 20em;
+}
+
+.creator-desc{
+    margin-top: 1em;
+}
+
+.selltext{
+    margin-top: 3em;
+    margin-bottom: 3em;
+}
+
+/*Product Page*/
+.prd-mockup{
+    margin-top: 3em;
+}
+
+.prd-img{
+    margin-bottom: 3em;
+}
+
+span{
+    font-weight: 500;
+}
+
+.sim-items-cont{
+    background: rgb(255, 255, 255, 0.1);
+    box-shadow: 0px 5px 4px rgb(0, 0, 0, 0.25);
+    padding: 20px;
+    margin-top: 3em;
+    margin-bottom: 30px;
+    border-radius: 10px;
+    width:fit-content;
+    height: fit-content;
+}
+
+
+.transaction-hstry{
+    margin-top: 6em;
+}
+
+table{
+    background: black;
+}
+
+/*Footer*/
+footer{
+    margin-top: 4em;
+    margin-bottom: 4em;
+}
+ .nobull {
+  list-style-type: none;
+ }
